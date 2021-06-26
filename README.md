@@ -5,7 +5,7 @@
 
 
 
-## Github Performance
+### Github Performance
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&count_private=true)
 
@@ -47,13 +47,6 @@
 ###### Support
 
 - `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
-
-
-
-
-## Github Performance Enumeration
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&count_private=true)
 
 
 
