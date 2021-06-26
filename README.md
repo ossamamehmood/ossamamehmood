@@ -20,7 +20,7 @@
 - Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
 - Building `Elegant` Open Source Repository and Projects.
 - Bloodline `Creative, Reflective & Introspective` Designer.
-- Aspiration `Broke` those with Excellence who try to mess up `Soft Heart`.
+- Aspire `Broke` those with `Excellence` who try to mess up `Soft Heart`.
 - Smarting `Ignorance/absence` those who lose diamond.
 - Believe `in Allah Almighty` Exclusively and Unconditionally.
 
