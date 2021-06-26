@@ -1,41 +1,40 @@
 ### Hi Greeting's 👋
 
-<a href="https://www.facebook.com/ossamamehmood110">
-  <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a href="https://twitter.com/ossamamehmood">
-  <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://www.instagram.com/ossamamehmood">
-  <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCiCtAidDDedbB2Izs_3E0oA">
-  <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/ossamamehmood">
-  <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 <br />
 
 ###  About Me
-- Third Year Bachelour in Software Engineering - Comsats University Islamabad
+
+###### Education
+
+- Third Semester - Bachelour in Software Engineering (BSSE) - Comsats University Islamabad
+- Intermediate in Computer Science (ICS) - Punjab Group of College's 
+- Secondary School Certificate (SSC) or Matriculation examination - Islamabad Model College For Boys
+
+###### Website
+
 - Website <a href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood | Wordpress </a>
-- Love  building `cool` open source projects.
-- Portfolio at Behance: <a href="https://www.behance.net/ossamamehmood" target="_blank">https://www.behance.net/ossamamehmood</a>
-- Portfolio at Dribbble: <a href="https://dribbble.com/ossamamehmood" target="_blank">https://dribbble.com/ossamamehmood</a>
+- Building `Elegant` Open Source Repository and Projects.
+
+#### Freelance / Remotely
+
 - Freelancer at Fiverr <a href="https://www.fiverr.com/ossamamehmood?up_rollout=true" target="_blank">Fiverr</a>
 - Freelancer at Upwork <a href="https://www.upwork.com/freelancers/~0105286082fc1badae" target="_blank">Upwork</a>
+
+###### Portfolio's
+
+- Portfolio at Behance: <a href="https://www.behance.net/ossamamehmood" target="_blank">https://www.behance.net/ossamamehmood</a>
+- Portfolio at Dribbble: <a href="https://dribbble.com/ossamamehmood" target="_blank">https://dribbble.com/ossamamehmood</a>
+
+  ###### Support
+
 - Support at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
+
 
 > “Everything you can imagine is Creative, Reflective & Introspective”
 > (SAM)
 > 
-[For more quotes of ossamamehmood visit.] (https://ossamamehmood.wordpress.com)
+[For more about ossamamehmood visit.] (https://ossamamehmood.wordpress.com)
+
 
 
 
