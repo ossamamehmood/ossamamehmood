@@ -37,8 +37,13 @@
 > 
 [For more quotes of ossamamehmood visit.] (https://ossamamehmood.wordpress.com)
 
+<br />
 
+## Github Performance Enumeration
 
+![Statistics](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&count_private=true)
+
+<br />
 
 ## Explore me on Social Media
 
@@ -77,13 +82,6 @@
 <a href="https://ossamamehmood.wordpress.com">
   <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 </a>
-
-<br />
-
-## Github Performance Enumeration
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&count_private=true)
-
 
 <!--
 **ossamamehmood/ossamamehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
