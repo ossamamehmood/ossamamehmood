@@ -1,12 +1,9 @@
-align="center" ### Hi Greeting's 👋
+### Hi Greeting's 👋
 
 > "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
 > `(SAM)`
 
 ### Github Performance
-
-
-
 
 [![Ossama Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossamamehmood&layout=compact&theme=radical&bg_color=0,141321,4E1E3C)](https://github.com/anuraghazra/github-readme-stats)
@@ -47,6 +44,16 @@ align="center" ### Hi Greeting's 👋
 ###### Website
 
 - `Wordpress` is <a href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood </a>
+
+
+**Languages**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+
 
 ###### Support
 
