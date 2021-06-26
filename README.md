@@ -3,6 +3,15 @@
 > "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
 > `(SAM)`
 
+
+
+## Github Performance
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&count_private=true)
+
+
+
+
 ###  About Me
 
 ###### Status
