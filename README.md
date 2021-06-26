@@ -37,13 +37,15 @@
 > 
 [For more quotes of ossamamehmood visit.] (https://ossamamehmood.wordpress.com)
 
-<br />
+
+
 
 ## Github Performance Enumeration
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&count_private=true)
 
-<br />
+
+
 
 ## Explore me on Social Media
 
