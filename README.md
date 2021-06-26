@@ -1,5 +1,9 @@
 ### Hi Greeting's 👋
 
+<a href="https://www.instagram.com//ossamamehmood/">
+  <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 <a href="https://twitter.com/ossamamehmood">
   <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
