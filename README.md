@@ -88,8 +88,9 @@
 </a>
 
 <br/>
+<br/>
 
-**For more `about` visit** [ossamamehmood](https://ossamamehmood.wordpress.com)
+**More `about` visit** [`ossamamehmood`](https://ossamamehmood.wordpress.com)
 
 <!--
 **ossamamehmood/ossamamehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
