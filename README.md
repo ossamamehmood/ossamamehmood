@@ -6,41 +6,45 @@
 
 ###### Status
 
+- Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
 - Building `Elegant` Open Source Repository and Projects.
 - Bloodline `Creative, Reflective & Introspective` Designer.
 - Aspiration `Broke` those with Excellence who try to mess up `Soft Heart`.
 - Smarting `Ignorance/absence` those who lose diamond.
+- Believe `in Allah Almighty` Exclusively and Unconditionally.
 
 ###### Education
 
-- Third Semester - Bachelour in Software Engineering (BSSE) - Comsats University Islamabad
-- Intermediate in Computer Science (ICS) - Punjab Group of College's 
-- Secondary School Certificate (SSC) or Matriculation examination - Islamabad Model College For Boys
+- Third Semester - `Bachelour` in Software Engineering `(BSSE)` - Comsats University Islamabad
+- `Intermediate` in Computer Science `(ICS)` - Punjab Group of College's 
+- `Secondary School` Certificate `(SSC)` or Matriculation Examination - Islamabad Model College For Boys
 
 ###### Website
 
-- href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood </a>
-- Building `Elegant` Open Source Repository and Projects.
+- <a href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood </a>
 
 #### Freelance / Remotely
 
-- Freelancer at Fiverr <a href="https://www.fiverr.com/ossamamehmood?up_rollout=true" target="_blank">Fiverr</a>
-- Freelancer at Upwork <a href="https://www.upwork.com/freelancers/~0105286082fc1badae" target="_blank">Upwork</a>
+- `Freelancer` at `Fiverr` <a href="https://www.fiverr.com/ossamamehmood?up_rollout=true" target="_blank">Fiverr</a>
+- `Freelancer` at `Upwork` <a href="https://www.upwork.com/freelancers/~0105286082fc1badae" target="_blank">Upwork</a>
 
 ###### Portfolio's
 
-- Portfolio at Behance: <a href="https://www.behance.net/ossamamehmood" target="_blank">Behance</a>
-- Portfolio at Dribbble: <a href="https://dribbble.com/ossamamehmood" target="_blank">Dribbble</a>
+``
+- Portfolio at `Behance` <a href="https://www.behance.net/ossamamehmood" target="_blank">Behance</a>
+- Portfolio at `Dribbble` <a href="https://dribbble.com/ossamamehmood" target="_blank">Dribbble</a>
 
 ###### Support
 
-- Support at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
+- `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
 
 
 > “Everything you can imagine is Creative, Reflective & Introspective”
-> (SAM)
-> 
-[For more about ossamamehmood visit.] (https://ossamamehmood.wordpress.com)
+> `(SAM)`
+
+* **For more about visit:** [ossamamehmood](https://ossamamehmood.wordpress.com)
+
+[For more about ossamamehmood visit] (https://ossamamehmood.wordpress.com)
 
 
 
