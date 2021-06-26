@@ -1,7 +1,5 @@
 ### Hi Greeting's 👋
 
-<br />
-
 ###  About Me
 
 ###### Status
@@ -19,9 +17,6 @@
 - `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
 - `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
 
-###### Website
-
-- <a href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood </a>
 
 #### Freelance / Remotely
 
@@ -30,9 +25,12 @@
 
 ###### Portfolio's
 
-``
 - Portfolio at `Behance` <a href="https://www.behance.net/ossamamehmood" target="_blank">Behance</a>
 - Portfolio at `Dribbble` <a href="https://dribbble.com/ossamamehmood" target="_blank">Dribbble</a>
+
+###### Website
+
+- `Wordpress` is <a href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood </a>
 
 ###### Support
 
