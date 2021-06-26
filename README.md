@@ -28,8 +28,8 @@
 
 ###### Portfolio's
 
-- Portfolio at `Behance` <a href="https://www.behance.net/ossamamehmood" target="_blank">Behance</a>
-- Portfolio at `Dribbble` <a href="https://dribbble.com/ossamamehmood" target="_blank">Dribbble</a>
+- `Portfolio` at `Behance` <a href="https://www.behance.net/ossamamehmood" target="_blank">Behance</a>
+- `Portfolio` at `Dribbble` <a href="https://dribbble.com/ossamamehmood" target="_blank">Dribbble</a>
 
 ###### Website
 
@@ -38,9 +38,6 @@
 ###### Support
 
 - `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
-
-* **For more about visit:** [ossamamehmood](https://ossamamehmood.wordpress.com)
-
 
 
 
@@ -89,6 +86,9 @@
 <a href="https://ossamamehmood.wordpress.com">
   <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 </a>
+
+
+* **For more about visit:** [ossamamehmood](https://ossamamehmood.wordpress.com)
 
 <!--
 **ossamamehmood/ossamamehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
