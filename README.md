@@ -1,5 +1,8 @@
 ### Hi Greeting's 👋
 
+> "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
+> `(SAM)`
+
 ###  About Me
 
 ###### Status
@@ -35,11 +38,6 @@
 ###### Support
 
 - `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
-
-
-> "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
-> `(SAM)`
-
 
 * **For more about visit:** [ossamamehmood](https://ossamamehmood.wordpress.com)
 
