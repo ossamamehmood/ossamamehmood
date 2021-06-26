@@ -15,9 +15,9 @@
 
 ###### Education
 
-- Third Semester - `Bachelour` in Software Engineering `(BSSE)` - Comsats University Islamabad
-- `Intermediate` in Computer Science `(ICS)` - Punjab Group of College's 
-- `Secondary School` Certificate `(SSC)` or Matriculation Examination - Islamabad Model College For Boys
+- Third Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
+- `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
+- `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
 
 ###### Website
 
@@ -39,12 +39,11 @@
 - `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
 
 
-> “Everything you can imagine is Creative, Reflective & Introspective”
+> "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
 > `(SAM)`
 
-* **For more about visit:** [ossamamehmood](https://ossamamehmood.wordpress.com)
 
-[For more about ossamamehmood visit] (https://ossamamehmood.wordpress.com)
+* **For more about visit:** [ossamamehmood](https://ossamamehmood.wordpress.com)
 
 
 
