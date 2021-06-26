@@ -4,6 +4,13 @@
 
 ###  About Me
 
+###### Status
+
+- Building `Elegant` Open Source Repository and Projects.
+- Bloodline `Creative, Reflective & Introspective` Designer.
+- Aspiration `Broke` those with Excellence who try to mess up `Soft Heart`.
+- Smarting `Ignorance/absence` those who lose diamond.
+
 ###### Education
 
 - Third Semester - Bachelour in Software Engineering (BSSE) - Comsats University Islamabad
@@ -12,7 +19,7 @@
 
 ###### Website
 
-- Website <a href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood | Wordpress </a>
+- href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood </a>
 - Building `Elegant` Open Source Repository and Projects.
 
 #### Freelance / Remotely
@@ -22,10 +29,10 @@
 
 ###### Portfolio's
 
-- Portfolio at Behance: <a href="https://www.behance.net/ossamamehmood" target="_blank">https://www.behance.net/ossamamehmood</a>
-- Portfolio at Dribbble: <a href="https://dribbble.com/ossamamehmood" target="_blank">https://dribbble.com/ossamamehmood</a>
+- Portfolio at Behance: <a href="https://www.behance.net/ossamamehmood" target="_blank">Behance</a>
+- Portfolio at Dribbble: <a href="https://dribbble.com/ossamamehmood" target="_blank">Dribbble</a>
 
-  ###### Support
+###### Support
 
 - Support at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
 
