@@ -70,14 +70,13 @@
   <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 
-<a href="https://www.pinterest.com/ossamamehmood>
+<a href="https://www.pinterest.com/ossamamehmood">
   <img align="left" alt="Ossama Mehmood" width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
 
 <a href="https://ossamamehmood.wordpress.com">
-  <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+  <img align="left" alt="Ossama Mehmood" width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 </a>
-
 
 
 
