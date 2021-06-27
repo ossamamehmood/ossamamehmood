@@ -68,7 +68,7 @@
 
 
 
-## Explore me on Social Media
+## Explore me
 
 <a href="https://www.facebook.com/ossamamehmood110">
   <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
