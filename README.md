@@ -3,6 +3,8 @@
 > "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
 > `(SAM)`
 
+
+
 ### Github Performance
 
 ![Ossama Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)
@@ -12,6 +14,8 @@
 <!--
 ![Ossama Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamamehmood&theme=dark&show_icons=true)
 -->
+
+
 
 ###  About Me
 
@@ -49,6 +53,7 @@
 - `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
 
 
+
 ###  Languages
 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -60,6 +65,8 @@
 <br/>
 
 **More `about` visit** [`ossamamehmood`](https://ossamamehmood.wordpress.com)
+
+
 
 ## Explore me on Social Media
 
@@ -100,8 +107,6 @@
 </a>
 
 <br/>
-
-
 
 <!--
 **ossamamehmood/ossamamehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
