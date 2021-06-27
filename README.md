@@ -30,7 +30,7 @@
 - `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
 - `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
 
-#### Freelance / Remotely
+###### Freelance / Remotely
 
 - `Freelancer` at `Fiverr` <a href="https://www.fiverr.com/ossamamehmood?up_rollout=true" target="_blank">Fiverr</a>
 - `Freelancer` at `Upwork` <a href="https://www.upwork.com/freelancers/~0105286082fc1badae" target="_blank">Upwork</a>
