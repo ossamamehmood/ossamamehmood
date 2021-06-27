@@ -15,7 +15,7 @@
 
 ###  About Me
 
-###### Personally
+###### Personal
 
 - Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
 - Building `Elegant` Open Source Repository and Projects.
