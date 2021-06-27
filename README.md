@@ -52,9 +52,15 @@
 
 - `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
 
-<br/>**More `about` visit** [`ossamamehmood`](https://ossamamehmood.wordpress.com) <a href="https://ossamamehmood.wordpress.com">
+<br/>**More `about` visit** [`ossamamehmood`](https://ossamamehmood.wordpress.com) 
+<br/>
+<a href="https://ossamamehmood.wordpress.com">
   <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
-</a> <br/>
+</a> 
+
+<br/>
+
+
 
 ###  Languages
 
@@ -98,10 +104,6 @@
 
 <a href="https://www.pinterest.com/ossamamehmood">
   <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
-</a>
-
-<a href="https://ossamamehmood.wordpress.com">
-  <img align="left" alt="Ossama Mehmood" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 </a>
 
 <br/>
