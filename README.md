@@ -15,7 +15,7 @@
 
 ###  About Me
 
-###### Status
+###### Personally
 
 - Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
 - Building `Elegant` Open Source Repository and Projects.
@@ -30,7 +30,6 @@
 - `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
 - `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
 
-
 #### Freelance / Remotely
 
 - `Freelancer` at `Fiverr` <a href="https://www.fiverr.com/ossamamehmood?up_rollout=true" target="_blank">Fiverr</a>
@@ -44,7 +43,6 @@
 ###### Website
 
 - `Wordpress` is <a href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood </a>
-
 
 ###### Support
 
@@ -63,7 +61,6 @@
 <br/>
 
 **More `about` visit** [`ossamamehmood`](https://ossamamehmood.wordpress.com)
-
 
 ## Explore me on Social Media
 
