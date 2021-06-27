@@ -52,7 +52,7 @@
 
 - `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
 
-<br/> **More `about` visit** [`ossamamehmood`](https://ossamamehmood.wordpress.com) <br/>
+<br/>**More `about` visit** [`ossamamehmood`](https://ossamamehmood.wordpress.com)<br/>
 
 ###  Languages
 
