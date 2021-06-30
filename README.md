@@ -14,8 +14,8 @@
 
 ### GitHub Overall Analytics
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=radical&hide_border=true" />
+<p align="left">
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=radical&hide_border=true" />
 </p>
 
 
