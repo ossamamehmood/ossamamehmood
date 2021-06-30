@@ -66,30 +66,30 @@
 
 ###  Languages
 
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 
 
 
 ### Explore
 
 <a href="https://www.facebook.com/ossamamehmood110">
-  <img align="left" alt="Ossama Mehmood" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Ossama Mehmood" width="32x" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <a href="https://twitter.com/ossamamehmood">
-  <img align="left" alt="Ossama Mehmood" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://www.instagram.com/ossamamehmood">
-  <img align="left" alt="Ossama Mehmood" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCiCtAidDDedbB2Izs_3E0oA">
-  <img align="left" alt="Ossama Mehmood" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 
@@ -98,19 +98,19 @@
 
 
 <a href="https://www.linkedin.com/in/ossamamehmood">
-  <img align="left" alt="Ossama Mehmood" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.behance.net/ossamamehmood">
-  <img align="left" alt="Ossama Mehmood" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+  <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
 
 <a href="https://dribbble.com/ossamamehmood">
-  <img align="left" alt="Ossama Mehmood" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+  <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 
 <a href="https://www.pinterest.com/ossamamehmood">
-  <img align="left" alt="Ossama Mehmood" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
+  <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
 
 <br/>
