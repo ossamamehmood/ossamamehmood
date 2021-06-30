@@ -58,7 +58,7 @@
 
 <br/>
 
-**More `about` visit** [`ossamamehmood`](https://ossamamehmood.wordpress.com) <a href="https://ossamamehmood.wordpress.com"> <img align="right" alt="Ossama Mehmood" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+**More `about` visit** [`ossamamehmood`](https://ossamamehmood.wordpress.com) <a href="https://ossamamehmood.wordpress.com"> <img align="center" alt="Ossama Mehmood" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 </a>
 
 <br/>
