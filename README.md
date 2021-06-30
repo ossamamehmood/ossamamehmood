@@ -113,6 +113,13 @@
 
 <br/>
 
+<h2><i> GitHub Overall Analytics</i></h2>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhaxxan&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
+
 <!--
 **ossamamehmood/ossamamehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
