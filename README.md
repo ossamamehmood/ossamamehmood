@@ -11,10 +11,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossamamehmood&layout=compact&theme=radical&bg_color=0,141321,4E1E3C)
 
 
-<!--
-![Ossama Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamamehmood&theme=dark&show_icons=true)
--->
 
+### GitHub Overall Analytics
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=radical&hide_border=true" />
+</p>
 
 
 ###  About Me
@@ -112,13 +114,6 @@
 </a>
 
 <br/>
-
-### GitHub Overall Analytics
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=radical&hide_border=true" />
-</p>
-</p>
 
 <!--
 **ossamamehmood/ossamamehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
