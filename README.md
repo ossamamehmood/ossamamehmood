@@ -116,7 +116,7 @@
 <h2><i> GitHub Overall Analytics</i></h2>
 
 <p align="center">
-  <img width="90%" src="(https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=radical&hide_border=true)](https://git.io/streak-stats)" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=radical&hide_border=true" />
 </p>
 </p>
 
