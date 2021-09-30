@@ -3,7 +3,7 @@
 > "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
 > `(SAM)`
 
-
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ossamamehmood) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ossamamehmood.visitor-badge)](https://github.com/ossamamehmood) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ossamamehmood)
 
 ### Github Performance
 
