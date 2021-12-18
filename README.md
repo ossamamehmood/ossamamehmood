@@ -46,7 +46,7 @@
 
 ###### Website
 
-- `Personal Website` is <a href="https://ossamamehmood.me" target="_blank">Ossama Mehmood</a>
+- `Personal Website` is <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
 
 - `WordPress Website` is [`ossamamehmood`](https://ossamamehmood.me) <a href="https://ossamamehmood.me"> <!-- <img align="center" alt="Ossama Mehmood" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /> -->
 </a>
