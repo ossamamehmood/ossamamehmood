@@ -5,7 +5,7 @@
 
 ### Github Performance
 
-![Ossama Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossamamehmood&layout=compact&theme=radical&bg_color=0,141321,4E1E3C&hide_border=true)
+![Ossama Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossamamehmood&layout=compact&theme=radical&bg_color=0,141321,4E1E3C&hide_border=true)
 
 
 
