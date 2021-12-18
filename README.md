@@ -36,12 +36,12 @@
 
 ###### Freelance / Remotely
 
-- `Freelancer` at <a href="https://www.fiverr.com/ossamamehmood?up_rollout=true" target="_blank">`Fiverr`</a>
+- `Freelancer` at <a href="https://www.fiverr.com/ossamamehmood" target="_blank">`Fiverr`</a>
 - `Freelancer` at <a href="https://www.upwork.com/freelancers/~0105286082fc1badae" target="_blank">`Upwork`</a>
 
 ###### Portfolio's
 
-- `Portfolio` at `Behance` <a href="https://www.behance.net/ossamamehmood" target="_blank">Behance</a>
+- `Portfolio` at  <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
 - `Portfolio` at `Dribbble` <a href="https://dribbble.com/ossamamehmood" target="_blank">Dribbble</a>
 
 ###### Website
