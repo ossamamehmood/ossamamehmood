@@ -41,8 +41,8 @@
 
 ###### Portfolio's
 
-- `Portfolio` at  <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
-- `Portfolio` at `Dribbble` <a href="https://dribbble.com/ossamamehmood" target="_blank">Dribbble</a>
+- `Portfolio` at <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
+- `Portfolio` at <a href="https://dribbble.com/ossamamehmood" target="_blank">`Dribbble`</a>
 
 ###### Website
 
