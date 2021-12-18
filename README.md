@@ -84,11 +84,6 @@
   <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-
-<br/>
-<br/>
-
-
 <a href="https://www.linkedin.com/in/ossamamehmood">
   <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -104,8 +99,6 @@
 <a href="https://www.pinterest.com/ossamamehmood">
   <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
-
-<br/>
 
 <!--
 **ossamamehmood/ossamamehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
