@@ -46,16 +46,15 @@
 
 ###### Website
 
-- `Wordpress` is <a href="https://ossamamehmood.wordpress.com/" target="_blank">Ossama Mehmood </a>
+- `Personal Website` is <a href="https://ossamamehmood.me" target="_blank">Ossama Mehmood</a>
+
+- `WordPress Website` is [`ossamamehmood`](https://ossamamehmood.me) <a href="https://ossamamehmood.me"> <!-- <img align="center" alt="Ossama Mehmood" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /> -->
+</a>
+<br/>
 
 ###### Support
 
 - `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon❤️</a>
-
-<br/>**More `about` visit** [`ossamamehmood`](https://ossamamehmood.me) <a href="https://ossamamehmood.me"> <!-- <img align="center" alt="Ossama Mehmood" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /> -->
-</a>
-<br/>
-
 
 
 ###  Languages
