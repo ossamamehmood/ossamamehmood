@@ -1,4 +1,4 @@
-### Hi Greeting's 💓
+### Hi Greeting's ❤️
 
 > "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
 > `(SAM)`
