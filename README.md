@@ -53,7 +53,7 @@
 
 ###### Support
 
-- `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon❤️</a> and <a href="https://ko-fi.com/ossamamehmood" target="_blank">Ko-Fi☕</a>
+- `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon ❤️</a> and <a href="https://ko-fi.com/ossamamehmood" target="_blank">Ko-Fi ☕</a>
 
 
 ###  Languages
