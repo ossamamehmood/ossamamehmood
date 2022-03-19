@@ -2,15 +2,15 @@
 <!--- feel free to download the assests and use them in your profile --->
 <!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
 
+<!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
+<div align="center">  
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=1000&lines=OSSAMA+MEHMOOD+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
+  
 <!--- header image --->
 <p align="left">
   <img alt="" style="{max-height: 20px}" src="./assets/header/Tapelight Studio.png">
-</p>
-
-<!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
-<div align="center">  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&height=100&lines=Ossama+Mehmood+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
+</p>  
   
 <!--- portfolio launch image --->
 <a href="http://www.ossamamehmood.me">
@@ -48,10 +48,13 @@
 
 <div></div>
 <!--- language icons --->
+<!--- 
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152361790-b7faad3d-5f95-468a-aa51-e38f39419ec4.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" /> 
+--->
+  
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366195-2a7a5be2-acc8-485c-9908-861bcfaa3f2b.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366251-81e7024b-81c6-422c-ae71-ad035850d030.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366230-0d5c915e-b212-49cc-b5d5-00d50b1493f6.png" />
@@ -63,12 +66,11 @@
   ABOUT ME
 </h1>
   
-<img width="105" height="105" src="https://user-images.githubusercontent.com/60597290/152283182-7133c4ea-c658-419f-8316-128c75287aa7.png" />
+<img width="105" height="105" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/boy.png" />
 
-'A young & passionate software developer & tech evangelist fascinated by new technology trends & filled with patriotism, giving his best to play his part in bringing digital change and tech awareness in Pakistan.'
-I am a perfectionist, having obsession with beautiful user interface designs & graphics. I enjoy coding in Flutter, creating beautiful looking apps while being aware of UX as well. Blockchain engrosses me and, therefore, making me dig deeper into the world of Solidity.
-I am a nerd with great troubleshooting skills, who loves to play with different operating systems and explore them. Computer hardware fascinates me very much. Looking forward to having understanding of DevOps & AWS while exploring advanced Dart & Flutter concepts!
-Apart from that, I'm a helping hand for the learners; helping them to learn and grow. I believe in quality education & eager to promote it. I have been helping others by creating content on my [YouTube](https://www.youtube.com/c/RashidsTechStuff) channel & writing articles on various platforms like [Dev.to](https://dev.to/rashidwassan).  
+'A Superhuman: Belief in God with a Blindfold too & Not all heroes wear capes & have superpowers 🎊💓'
+  
+Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms. I'm currently specialized working as a Digital Creator, Graphic Designer, and User Interface (UI) & Experience (UX).
 
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
