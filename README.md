@@ -10,7 +10,7 @@
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 <div align="center">  
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Hello+Coders!;I+am+Rashid+Wassan%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;GDSC+Lead+%7C+Microsoft+LSA;Flutter+Developer;Blockchain+Enthusiast;Tech+Evangelist;Glad+to+see+you+here!!!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71FB1&lines=Ossama+Mehmood+%EC%83%98;Digital+Creator+%2F+%F0%9F%8E%97%EF%B8%8F+Graphic+Designer+%2F+%F0%9F%96%A4+User+Interface+(UI)+%26+Experience+(UX))](https://git.io/typing-svg)
 
 <!--- portfolio launch image --->
 <a href="http://www.ossamamehmood.me">
