@@ -4,7 +4,7 @@
 
 <!--- header image --->
 <p align="left">
-  <img alt="" style="{max-height: 20px}" src="./assests/header/Tapelight Studio.PNG">
+  <img alt="" style="{max-height: 20px}" src="./assets/header/Tapelight Studio.PNG">
 </p>
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
