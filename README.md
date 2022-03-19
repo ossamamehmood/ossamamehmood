@@ -93,9 +93,9 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     Education 
     </h2>
 
-Fifth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
-`Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
-`Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
+  Fifth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
+  `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
+  `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
 
   <!--- Portfolio --->  
   
