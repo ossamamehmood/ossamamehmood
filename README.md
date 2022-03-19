@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+<!--
+
 ### Hi Greeting's ❤️
 
 > "`Simplicity` is the `soul` of `efficiency` << Talk is `cheap`, `show me` the `code` </>" 
@@ -8,13 +20,11 @@
 ![Ossama Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamamehmood&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossamamehmood&layout=compact&theme=radical&bg_color=0,141321,4E1E3C&hide_border=true)
 
 
-
 ### Github Overall Analytics
 
 <p align="left">
   <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=radical&hide_border=true" />
 </p>
-
 
 
 ###  About Me
@@ -48,8 +58,8 @@
 
 - `Personal Website` is <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
 
-- `WordPress Website` is [`ossamamehmood`](https://ossamamehmood.me) <a href="https://ossamamehmood.me"> <!-- <img align="center" alt="Ossama Mehmood" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /> -->
-</a>
+- `WordPress Website` is [`ossamamehmood`](https://ossamamehmood.me) <a href="https://ossamamehmood.me"> <!-- <img align="center" alt="Ossama Mehmood" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /> </a>
+
 
 ###### Support
 
@@ -100,6 +110,8 @@
 <a href="https://www.pinterest.com/ossamamehmood">
   <img align="left" alt="Ossama Mehmood" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
+
+-->
 
 <!--
 **ossamamehmood/ossamamehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
