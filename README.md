@@ -2,15 +2,15 @@
 <!--- feel free to download the assests and use them in your profile --->
 <!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
 
-<!--- header image --->
-<p align="left">
-  <img alt="" style="{max-height: 20px}" src="./assets/header/Tapelight Studio.png">
-</p>
-
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 <div align="center">  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&height=100&lines=Ossama+Mehmood+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
+  
+<!--- header image --->
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./assets/header/Tapelight Studio.png">
+</p>  
   
 <!--- portfolio launch image --->
 <a href="http://www.ossamamehmood.me">
