@@ -104,23 +104,15 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
   `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
 
-  <!--- Portfolio --->  
+  <!--- Portfolio/Website --->  
   
 <h1 align="center">
-    Portfolio 
-    </h2>
-  
-  `Portfolio` at <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
-  
-  `Portfolio` at <a href="https://dribbble.com/ossamamehmood" target="_blank">`Dribbble`</a>
-
-  <!--- Website --->  
-  
-<h1 align="center">
-    Website 
+    Portfolio/Website
     </h2>
   
   `Personal Website` -> <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
+  
+   `Portfolio` at <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
   
   `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
   
