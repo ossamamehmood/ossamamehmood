@@ -79,13 +79,52 @@ Started my career at the age of Sixteen (16) as a Graphic Designer. I have four 
     Personal 
     </h2>
 
-- Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
-- Building `Elegant` Open Source Repository and Projects.
-- Bloodline `Creative, Reflective & Introspective` Designer.
-- Aspire `Broke` those with `Excellence` who try to mess up `Soft Heart`.
-- Smarting `Ignorance/absence` those who lose diamond.
-- Believe `in Allah Almighty` Exclusively and Unconditionally.
+Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
+Building `Elegant` Open Source Repository and Projects.
+Bloodline `Creative, Reflective & Introspective` Designer.
+Aspire `Broke` those with `Excellence` who try to mess up `Soft Heart`.
+Smarting `Ignorance/absence` those who lose diamond.
+Believe `in Allah Almighty` Exclusively and Unconditionally.
+  
+  
+  <!--- Education --->  
+  
+<h1 align="center">
+    Education 
+    </h2>
 
+Fifth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
+`Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
+`Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
+
+  <!--- Portfolio --->  
+  
+<h1 align="center">
+    Portfolio 
+    </h2>
+
+`Portfolio` at <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
+`Portfolio` at <a href="https://dribbble.com/ossamamehmood" target="_blank">`Dribbble`</a>
+
+  <!--- Website --->  
+  
+<h1 align="center">
+    Website 
+    </h2>
+
+- `Personal Website` is <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
+
+- `WordPress Website` is [`ossamamehmood`](https://ossamamehmood.me) <a href="https://ossamamehmood.me"> <!-- <img align="center" alt="Ossama Mehmood" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /> -->
+</a>
+
+  <!--- Support --->  
+  
+<h1 align="center">
+    Support 
+    </h2>
+
+- `Support` at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon ❤️</a> and <a href="https://ko-fi.com/ossamamehmood" target="_blank">Ko-Fi ☕</a>
+  
   
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
