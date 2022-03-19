@@ -32,10 +32,10 @@
 <a href="https://dev.to/ossamamehmood">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
 </a>
-<a href="https://stackoverflow.com/users/15750590/ossamamehmood" target="_blank">
+<a href="https://stackoverflow.com/users/9836874/ossama-mehmood" target="_blank">
   <img height="55" alt="Ossama Mehmood | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
 </a>
-<a href="https://www.facebook.com/ossamamehmood" target="_blank">
+<a href="https://www.facebook.com/ossamamehmood110" target="_blank">
   <img height="55" alt="Ossama Mehmood | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
 </a>
 <a href="https://www.instagram.com/ossamamehmood" target="_blank">
