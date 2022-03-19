@@ -80,10 +80,15 @@ Started my career at the age of Sixteen (16) as a Graphic Designer. I have four 
     </h2>
 
 Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
+  
 Building `Elegant` Open Source Repository and Projects.
+  
 Bloodline `Creative, Reflective & Introspective` Designer.
+  
 Aspire `Broke` those with `Excellence` who try to mess up `Soft Heart`.
+  
 Smarting `Ignorance/absence` those who lose diamond.
+  
 Believe `in Allah Almighty` Exclusively and Unconditionally.
   
   
@@ -102,19 +107,18 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 <h1 align="center">
     Portfolio 
     </h2>
-
-`Portfolio` at <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
-`Portfolio` at <a href="https://dribbble.com/ossamamehmood" target="_blank">`Dribbble`</a>
+  
+  `Portfolio` at <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
+  `Portfolio` at <a href="https://dribbble.com/ossamamehmood" target="_blank">`Dribbble`</a>
 
   <!--- Website --->  
   
 <h1 align="center">
     Website 
     </h2>
-
-`Personal Website` -> <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
   
-`Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+  `Personal Website` -> <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
+  `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
   
   
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
