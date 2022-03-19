@@ -66,6 +66,7 @@
 <img width="105" height="105" src="https://user-images.githubusercontent.com/60597290/152283182-7133c4ea-c658-419f-8316-128c75287aa7.png" />
 
 'A Superhuman: Belief in God with a Blindfold too & Not all heroes wear capes & have superpowers 🎊💓'
+  
 Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms.
 
 I'm currently specialized working as a Digital Creator, Senior Graphic Designer, and User Interface (UI) & Experience (UX).
