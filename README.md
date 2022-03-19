@@ -99,7 +99,9 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     </h2>
 
   Fifth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
+  
   `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
+  
   `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
 
   <!--- Portfolio --->  
@@ -109,6 +111,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     </h2>
   
   `Portfolio` at <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
+  
   `Portfolio` at <a href="https://dribbble.com/ossamamehmood" target="_blank">`Dribbble`</a>
 
   <!--- Website --->  
@@ -118,6 +121,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     </h2>
   
   `Personal Website` -> <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
+  
   `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
   
   
