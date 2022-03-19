@@ -10,7 +10,7 @@
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=10000&color=FF659F&center=true&width=1000&height=100&lines=Ossama+Mehmood+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=20000&color=FF58C4&center=true&width=1000&height=100&lines=Ossama+Mehmood+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
   
 <!--- portfolio launch image --->
 <a href="http://www.ossamamehmood.me">
