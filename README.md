@@ -112,7 +112,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
   `Personal Website` -> <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
   
-   `Portfolio` at <a href="https://www.behance.net/ossamamehmood" target="_blank">`Behance`</a>
+   `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
   
   `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
   
