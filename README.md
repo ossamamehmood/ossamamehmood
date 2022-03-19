@@ -112,7 +112,7 @@ Fifth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats Univer
     Website 
     </h2>
 
-`Personal Website` is <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
+`Personal Website` -> <a href="https://ossamamehmood.me" target="_blank">`Ossama Mehmood`</a>
   
 `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
   
