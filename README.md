@@ -9,7 +9,7 @@
   
 <!--- header image --->
 <p align="left">
-  <img alt="" style="{max-height: 10px}" src="./assets/header/Tapelight Studio.png">
+  <img alt="" style="{max-height: 2px}" src="./assets/header/Tapelight Studio.png">
 </p>
 
 <!--- portfolio launch image --->
