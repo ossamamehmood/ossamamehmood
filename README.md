@@ -1,17 +1,17 @@
 <!--- assets are created on Canva --->
 <!--- feel free to download the assests and use them in your profile --->
 <!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
+
+<!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=OSSAMA+MEHMOOD+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
   
 <!--- header image --->
 <p align="left">
   <img alt="" style="{max-height: 10px}" src="./assets/header/Tapelight Studio.png">
-</p>  
+</p>
 
-<!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=OSSAMA+MEHMOOD+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
-  
 <!--- portfolio launch image --->
 <a href="http://www.ossamamehmood.me">
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
