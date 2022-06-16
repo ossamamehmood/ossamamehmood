@@ -2,16 +2,19 @@
 <!--- feel free to download the assests and use them in your profile --->
 <!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
 
+
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=OSSAMA+MEHMOOD+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
+  
   
 <!--- header image --->
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="./assets/header/Tapelight Studio.png">
 </p>
 
+  
 <!--- portfolio launch image --->
 <a href="http://www.ossamamehmood.me">
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
@@ -19,6 +22,7 @@
   ![](https://komarev.com/ghpvc/?username=ossamamehmood&color=blueviolet&label=Profile+Views)
 </a>
 
+  
 <!--- social media icons, you can find them in assets directory of this repo --->
 <a href="https://twitter.com/ossamamehmood">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
@@ -42,12 +46,17 @@
   <img height="55" alt="Ossama Mehmood | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
 
+  
 <!--- a bit of vertical space & languages text --->
 <div>&nbsp;</div>
 <img height="65" alt="Ossama Mehmood | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
 
 <div></div>
+  
+  
 <!--- language icons --->
+  
+  
 <!--- 
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
