@@ -70,6 +70,15 @@
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
 
+ 
+   <!--- Buy Me a Coffee ☕ ---> 
+  
+<h3 align="center"></h3>
+  <p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+  alt="ossamamehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ossamamehmood" /></a></p>
+  <br><br>
+  
+  
 &nbsp;
 <h1 align="center">
   ABOUT ME
@@ -81,12 +90,6 @@
   
 Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms. I'm currently specialized working as a Digital Creator, Graphic Designer, and User Interface (UI) & Experience (UX).
 
-    <!--- Buy Me a Coffee ☕ ---> 
-  
-<h3 align="center"></h3>
-  <p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-  alt="ossamamehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ossamamehmood" /></a></p>
-  <br><br>
   
   <!--- Personal --->  
   
