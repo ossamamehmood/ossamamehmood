@@ -69,13 +69,6 @@
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366230-0d5c915e-b212-49cc-b5d5-00d50b1493f6.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
-
- 
-   <!--- Buy Me a Coffee ☕ ---> 
-  
-<h3 align="center"></h3>
-<p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160"
-alt="ossamamehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="ossamamehmood" /></a>
   
 &nbsp;
 <h1 align="center">
@@ -132,6 +125,13 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
    `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
   
   `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+  
+  
+  <!--- Buy Me a Coffee ☕ ---> 
+  
+<h3 align="center"></h3>
+<p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160"
+alt="ossamamehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="ossamamehmood" /></a>
   
   
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
