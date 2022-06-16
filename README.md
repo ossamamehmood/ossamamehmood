@@ -77,11 +77,13 @@
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" /> 
 --->
   
+  
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366195-2a7a5be2-acc8-485c-9908-861bcfaa3f2b.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366251-81e7024b-81c6-422c-ae71-ad035850d030.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366230-0d5c915e-b212-49cc-b5d5-00d50b1493f6.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
+  
   
 &nbsp;
 <h1 align="center">
@@ -153,9 +155,13 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 
 <hr>
 <p align="center">
+  
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ossamamehmood&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  
 </p>
+  
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
   
