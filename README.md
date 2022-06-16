@@ -139,8 +139,8 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
   <!--- Buy Me a Coffee ☕ ---> 
   
-<h3 align="center"></h3>
-<!--- <p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160" alt="ossamamehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> --->
+<!--- <h3 align="center"></h3> --->
+<!--- <p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160" alt="oss amehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> --->
 <!--- <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="ossamamehmood" /></a></p> --->
   
   
