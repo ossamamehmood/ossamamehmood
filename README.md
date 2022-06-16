@@ -144,6 +144,5 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
 <img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
 
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahad0" /></a><a href="https://ko-fi.com/ossamamehmood"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sahad0" /></a></p>
 <br><br>
