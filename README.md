@@ -76,7 +76,7 @@
 <h3 align="center"></h3>
 <br>
 <p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210"
-alt="ossamamehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ossamamehmood" /></a></p>
+alt="ossamamehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" width="210" alt="ossamamehmood" /></a></p>
 </div>
   
 &nbsp;
