@@ -74,10 +74,10 @@
    <!--- Buy Me a Coffee ☕ ---> 
   
 <h3 align="center"></h3>
-  <p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-  alt="ossamamehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ossamamehmood" /></a></p>
-  <br><br>
-  
+<br>
+<p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210"
+alt="ossamamehmood" /></a><a href="https://ko-fi.com/ossamamehmood"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ossamamehmood" /></a></p>
+</div>
   
 &nbsp;
 <h1 align="center">
