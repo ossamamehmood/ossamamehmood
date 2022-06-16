@@ -128,6 +128,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
   
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
+  
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
 
 <hr>
@@ -137,6 +138,8 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
+  
 <!--- building footer with spaceship question --->
+  
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
 <img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
