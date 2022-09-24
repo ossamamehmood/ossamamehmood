@@ -16,7 +16,7 @@
 <div align="center">
   
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="./assets/header/ossamamehmood.png">
+  <img alt="" style="{max-height: 0px}" src="./assets/header/ossamamehmood.jpg">
 </p>
 
   
