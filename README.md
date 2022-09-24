@@ -4,8 +4,6 @@
 
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
-
-<div align="center">
   
 <!---
 
@@ -14,6 +12,8 @@
 --->
   
 <!--- header image --->
+
+<div align="center">
   
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="./assets/header/ossamamehmood.png">
