@@ -93,9 +93,9 @@
   ABOUT ME
 </h1>
   
-<img width="105" height="105" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.png" />
+<img width="130" height="150" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.png" />
 
-'A Superhuman: Belief in God with a Blindfold too & Not all heroes wear capes & have superpowers 🎊💓'
+A Superhuman: Belief in God with a Blindfold too & Not all heroes wear capes & have superpowers ☔
   
 Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms. I'm currently specialized working as a Digital Creator, Graphic Designer, and User Interface (UI) & Experience (UX).
 
