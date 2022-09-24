@@ -134,7 +134,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     Education 
     </h2>
 
-  Fifth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
+  Sixth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
   
   `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
   
