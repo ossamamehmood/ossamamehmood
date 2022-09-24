@@ -93,7 +93,7 @@
   ABOUT ME
 </h1>
   
-<img width="105" height="105" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/ossamamehmood.png" />
+<img width="105" height="105" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.png" />
 
 'A Superhuman: Belief in God with a Blindfold too & Not all heroes wear capes & have superpowers 🎊💓'
   
