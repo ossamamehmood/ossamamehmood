@@ -13,7 +13,7 @@
 <!--- header image --->
   
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="./assets/header/ossamamehmood.gif">
+  <img alt="" style="{max-height: 0px}" src="./assets/header/ossamamehmood.png">
 </p>
 
   
