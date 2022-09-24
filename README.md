@@ -97,17 +97,17 @@
   
 Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms🎉.
 
-✔ Currently specialized in working as a Senior Graphic Designer, Brand Identity Strategist, and Visual Identity designer 🚀.
+✔ Currently specialized in working as a Senior Graphic Designer, Brand Identity Strategist, and Visual Identity designer 🚀
 
-✔ Around 𝟏𝟎𝟎+ Projects accomplished as a Graphic Designer throughout my freelance journey ♾.
+✔ Around 𝟏𝟎𝟎+ Projects accomplished as a Graphic Designer throughout my freelance journey ♾
 
-✔ 𝟏𝟎𝟎% Job Success Score - More than 100 scenes modeled with Upwork clients 🎉.
+✔ 𝟏𝟎𝟎% Job Success Score - More than 100 scenes modeled with Upwork clients 🎉
 
-✔ 𝐓𝐎𝐏-𝐑𝐀𝐓𝐄𝐃 Freelancer Acknowledgement from Upwork ⛷️.
+✔ 𝐓𝐎𝐏-𝐑𝐀𝐓𝐄𝐃 Freelancer Acknowledgement from Upwork ⛷️
 
-✔ Maintain the feedback (𝟝.𝟘/𝟝) - More than 9𝟎% of clients recommended 🎩.
+✔ Maintain the feedback (𝟝.𝟘/𝟝) - More than 9𝟎% of clients recommended 🎩
 
-✔ Respond quickly to clients, and get the work done promptly 🎮.
+✔ Respond quickly to clients, and get the work done promptly 🎮
   
   <!--- Personal --->  
   
