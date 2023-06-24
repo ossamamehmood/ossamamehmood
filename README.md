@@ -174,13 +174,9 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
 </p>
 
----
-
-### ☔ Recent Activity
-
+# Recent Activity :zap:
 <!--START_SECTION:activity-->
-
----
+<!--END_SECTION:activity-->
 
 <!--- Github contribution graph --->
   
