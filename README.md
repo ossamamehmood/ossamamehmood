@@ -176,6 +176,17 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+---
+
+
   
 <!--- building footer with spaceship question --->
   
