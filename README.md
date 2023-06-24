@@ -178,7 +178,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-# Latest Blogs
+# Latest Blogs 🎮
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
