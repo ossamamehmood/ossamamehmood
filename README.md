@@ -1,6 +1,6 @@
 <!--- assets are created on Canva --->
-<!--- feel free to download the assests and use them in your profile --->
-<!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
+<!--- Feel free to download the assets and use them in your profile --->
+<!--- to upload an asset, create an issue on any of your repositories and add files, the link will be generated --->
 
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
@@ -30,7 +30,7 @@
 </a>
 
   
-<!--- social media icons, you can find them in assets directory of this repo --->
+<!--- social media icons, you can find them in the assets directory of this repo --->
   
 <a href="https://twitter.com/ossamamehmood">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
@@ -41,7 +41,7 @@
 </a>  
   
 <a href="https://www.linkedin.com/in/ossamamehmood" target="_blank">
-  <img height="55" alt="Ossama Mehmood | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+  <img height="55" alt="Ossama Mehmood | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a> 
   
 <a href="https://dev.to/ossamamehmood">
@@ -134,7 +134,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     Education 
     </h2>
 
-  Sixth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
+  Eight Semester - `Bachelor` in `Software Engineering `(BSSE)` - Comsats University Islamabad
   
   `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
   
