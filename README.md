@@ -176,14 +176,6 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
-2. 💪 Opened PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
-3. 🔒 Closed issue [#1](https://github.com/ossamamehmood/ossamamehmood.me/issues/1) in [ossamamehmood/ossamamehmood.me](https://github.com/ossamamehmood/ossamamehmood.me)
-4. 🎉 Merged PR [#4294](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4294) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-5. 🎉 Merged PR [#6](https://github.com/ossamamehmood/Recruitee/pull/6) in [ossamamehmood/Recruitee](https://github.com/ossamamehmood/Recruitee)
-6. 🎉 Merged PR [#4293](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4293) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-7. 💪 Opened PR [#6986](https://github.com/omegaup/omegaup/pull/6986) in [omegaup/omegaup](https://github.com/omegaup/omegaup)
-8. 🚀 Published release [v1.3.0](https://github.com/v1.3.0) in [ossamamehmood/ossamamehmood.github.io](https://github.com/ossamamehmood/ossamamehmood.github.io)
 <!--END_SECTION:activity-->
 
 # Latest Blogs 🎮
