@@ -175,6 +175,9 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 </p>
 
 # Recent Activity :zap:
+
+<div style="text-align: center;">
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
 2. 💪 Opened PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
@@ -185,6 +188,8 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 7. 💪 Opened PR [#6986](https://github.com/omegaup/omegaup/pull/6986) in [omegaup/omegaup](https://github.com/omegaup/omegaup)
 8. 🚀 Published release [v1.3.0](https://github.com/v1.3.0) in [ossamamehmood/ossamamehmood.github.io](https://github.com/ossamamehmood/ossamamehmood.github.io)
 <!--END_SECTION:activity-->
+
+</div>
 
 # Latest Blogs 🎮
 <!-- BLOG-POST-LIST:START -->
