@@ -188,6 +188,14 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     <td align="left">
       
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v2.0](https://github.com/v2.0) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
+2. 🎉 Merged PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
+3. 💪 Opened PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
+4. 🔒 Closed issue [#1](https://github.com/ossamamehmood/ossamamehmood.me/issues/1) in [ossamamehmood/ossamamehmood.me](https://github.com/ossamamehmood/ossamamehmood.me)
+5. 🎉 Merged PR [#4294](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4294) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+6. 🎉 Merged PR [#6](https://github.com/ossamamehmood/Recruitee/pull/6) in [ossamamehmood/Recruitee](https://github.com/ossamamehmood/Recruitee)
+7. 🎉 Merged PR [#4293](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4293) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+8. 💪 Opened PR [#6986](https://github.com/omegaup/omegaup/pull/6986) in [omegaup/omegaup](https://github.com/omegaup/omegaup)
 <!--END_SECTION:activity-->
 
  </td>
