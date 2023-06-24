@@ -174,7 +174,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
 </p>
 
-# Recent Activity :zap:
+# Recent Activity ☂️
 
 <table align="center">
   <tr> 
