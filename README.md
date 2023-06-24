@@ -178,6 +178,10 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+# Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--- Github contribution graph --->
   
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
