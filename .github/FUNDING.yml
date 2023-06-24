@@ -10,7 +10,3 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 custom: ossamamehmood.github.io
-
-- name: GitHub - Activity - Readme
-  uses: jamesgeorge007/github-activity-readme@v0.4.0
-
