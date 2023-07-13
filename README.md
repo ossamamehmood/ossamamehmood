@@ -188,7 +188,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     <td align="left">
       
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0](https://github.com/v2.0) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
+1. 🚀 Published release [v2.0](https://github.com/ossamamehmood/ossamamehmood/releases/tag/v2.0) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
 2. 🎉 Merged PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
 3. 💪 Opened PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
 4. 🔒 Closed issue [#1](https://github.com/ossamamehmood/ossamamehmood.me/issues/1) in [ossamamehmood/ossamamehmood.me](https://github.com/ossamamehmood/ossamamehmood.me)
