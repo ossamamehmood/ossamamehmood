@@ -188,11 +188,11 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     <td align="left">
       
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4323](https://github.com/ossamamehmood/Hacktoberfest2023/issues/4323#issuecomment-1731623119) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-2. 🎉 Merged PR [#1](https://github.com/ossamamehmood/MLSA_Technical_Onboarding/pull/1) in [ossamamehmood/MLSA_Technical_Onboarding](https://github.com/ossamamehmood/MLSA_Technical_Onboarding)
-3. 💪 Opened PR [#1](https://github.com/ossamamehmood/MLSA_Technical_Onboarding/pull/1) in [ossamamehmood/MLSA_Technical_Onboarding](https://github.com/ossamamehmood/MLSA_Technical_Onboarding)
-4. 🎉 Merged PR [#4295](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4295) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-5. 🚀 Published release [v2.0](https://github.com/ossamamehmood/ossamamehmood/releases/tag/v2.0) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
+1. ❌ Reopened PR [#4300](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4300) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+2. 🗣 Commented on [#4323](https://github.com/ossamamehmood/Hacktoberfest2023/issues/4323#issuecomment-1731623119) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+3. 🎉 Merged PR [#1](https://github.com/ossamamehmood/MLSA_Technical_Onboarding/pull/1) in [ossamamehmood/MLSA_Technical_Onboarding](https://github.com/ossamamehmood/MLSA_Technical_Onboarding)
+4. 💪 Opened PR [#1](https://github.com/ossamamehmood/MLSA_Technical_Onboarding/pull/1) in [ossamamehmood/MLSA_Technical_Onboarding](https://github.com/ossamamehmood/MLSA_Technical_Onboarding)
+5. 🎉 Merged PR [#4295](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4295) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 6. 🎉 Merged PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
 7. 💪 Opened PR [#8](https://github.com/ossamamehmood/ossamamehmood/pull/8) in [ossamamehmood/ossamamehmood](https://github.com/ossamamehmood/ossamamehmood)
 8. 🎉 Merged PR [#4294](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4294) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
