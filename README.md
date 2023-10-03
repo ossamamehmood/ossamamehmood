@@ -188,14 +188,14 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     <td align="left">
       
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4677](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4677) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-2. 🎉 Merged PR [#4808](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4808) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-3. 🎉 Merged PR [#4668](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4668) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-4. 🎉 Merged PR [#4709](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4709) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-5. 🎉 Merged PR [#4707](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4707) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-6. 🎉 Merged PR [#4706](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4706) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-7. 🎉 Merged PR [#4705](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4705) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-8. 🎉 Merged PR [#4703](https://github.com/ossamamehmood/Hacktoberfest2023/pull/4703) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+1. 🎉 Merged PR [#5125](https://github.com/ossamamehmood/Hacktoberfest2023/pull/5125) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+2. 🎉 Merged PR [#5126](https://github.com/ossamamehmood/Hacktoberfest2023/pull/5126) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+3. 🎉 Merged PR [#5127](https://github.com/ossamamehmood/Hacktoberfest2023/pull/5127) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+4. 🎉 Merged PR [#5129](https://github.com/ossamamehmood/Hacktoberfest2023/pull/5129) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+5. 🎉 Merged PR [#5130](https://github.com/ossamamehmood/Hacktoberfest2023/pull/5130) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+6. 🎉 Merged PR [#5131](https://github.com/ossamamehmood/Hacktoberfest2023/pull/5131) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+7. 🎉 Merged PR [#5132](https://github.com/ossamamehmood/Hacktoberfest2023/pull/5132) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+8. 🎉 Merged PR [#5134](https://github.com/ossamamehmood/Hacktoberfest2023/pull/5134) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 <!--END_SECTION:activity-->
 
  </td>
