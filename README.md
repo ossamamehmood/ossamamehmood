@@ -188,14 +188,14 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     <td align="left">
       
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5842](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5842) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-2. 🗣 Commented on [#5822](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5822#issuecomment-1750569290) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-3. 🔒 Closed issue [#5830](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5830) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-4. 🔒 Closed issue [#5823](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5823) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-5. 🗣 Commented on [#5822](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5822#issuecomment-1750496166) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-6. 🔒 Closed issue [#5814](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5814) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-7. 🔒 Closed issue [#5792](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5792) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-8. 🔒 Closed issue [#5759](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5759) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+1. 🔒 Closed issue [#5850](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5850) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+2. 🗣 Commented on [#5822](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5822#issuecomment-1750680454) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+3. 🔒 Closed issue [#5842](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5842) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+4. 🗣 Commented on [#5822](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5822#issuecomment-1750569290) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+5. 🔒 Closed issue [#5830](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5830) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+6. 🔒 Closed issue [#5823](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5823) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+7. 🗣 Commented on [#5822](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5822#issuecomment-1750496166) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+8. 🔒 Closed issue [#5814](https://github.com/ossamamehmood/Hacktoberfest2023/issues/5814) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 <!--END_SECTION:activity-->
 
  </td>
