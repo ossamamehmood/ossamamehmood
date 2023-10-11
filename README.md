@@ -188,14 +188,14 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     <td align="left">
       
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6323](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6323) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-2. 🎉 Merged PR [#6188](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6188) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-3. 💪 Opened PR [#161](https://github.com/gayanvoice/top-github-users/pull/161) in [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
-4. 🔒 Closed issue [#6172](https://github.com/ossamamehmood/Hacktoberfest2023/issues/6172) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-5. 🔒 Closed issue [#6177](https://github.com/ossamamehmood/Hacktoberfest2023/issues/6177) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-6. 🎉 Merged PR [#6125](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6125) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-7. 🎉 Merged PR [#6126](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6126) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-8. 🎉 Merged PR [#6127](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6127) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+1. 🎉 Merged PR [#6426](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6426) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+2. 🎉 Merged PR [#6323](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6323) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+3. 🎉 Merged PR [#6188](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6188) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+4. 💪 Opened PR [#161](https://github.com/gayanvoice/top-github-users/pull/161) in [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+5. 🔒 Closed issue [#6172](https://github.com/ossamamehmood/Hacktoberfest2023/issues/6172) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+6. 🔒 Closed issue [#6177](https://github.com/ossamamehmood/Hacktoberfest2023/issues/6177) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+7. 🎉 Merged PR [#6125](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6125) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+8. 🎉 Merged PR [#6126](https://github.com/ossamamehmood/Hacktoberfest2023/pull/6126) in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
 <!--END_SECTION:activity-->
 
  </td>
