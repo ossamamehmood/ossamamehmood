@@ -188,14 +188,14 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     <td align="left">
       
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6498](https://github.com/ossamamehmood/Hacktoberfest/pull/6498) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
-2. 🔒 Closed issue [#6493](https://github.com/ossamamehmood/Hacktoberfest/issues/6493) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
-3. ❗ Opened issue [#6493](https://github.com/ossamamehmood/Hacktoberfest/issues/6493) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
-4. 🔒 Closed issue [#6491](https://github.com/ossamamehmood/Hacktoberfest/issues/6491) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
-5. 🔒 Closed issue [#5822](https://github.com/ossamamehmood/Hacktoberfest/issues/5822) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
-6. 🗣 Commented on [#5822](https://github.com/ossamamehmood/Hacktoberfest/issues/5822#issuecomment-1758219118) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
-7. 🔒 Closed issue [#6428](https://github.com/ossamamehmood/Hacktoberfest/issues/6428) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
-8. 🔒 Closed issue [#6412](https://github.com/ossamamehmood/Hacktoberfest/issues/6412) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
+1. 🎉 Merged PR [#6502](https://github.com/ossamamehmood/Hacktoberfest/pull/6502) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
+2. 🎉 Merged PR [#6501](https://github.com/ossamamehmood/Hacktoberfest/pull/6501) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
+3. 🎉 Merged PR [#6500](https://github.com/ossamamehmood/Hacktoberfest/pull/6500) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
+4. 🎉 Merged PR [#6498](https://github.com/ossamamehmood/Hacktoberfest/pull/6498) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
+5. 🔒 Closed issue [#6493](https://github.com/ossamamehmood/Hacktoberfest/issues/6493) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
+6. ❗ Opened issue [#6493](https://github.com/ossamamehmood/Hacktoberfest/issues/6493) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
+7. 🔒 Closed issue [#6491](https://github.com/ossamamehmood/Hacktoberfest/issues/6491) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
+8. 🔒 Closed issue [#5822](https://github.com/ossamamehmood/Hacktoberfest/issues/5822) in [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
 <!--END_SECTION:activity-->
 
  </td>
