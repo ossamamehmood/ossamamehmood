@@ -22,7 +22,7 @@
   
 <!--- portfolio launch image --->
   
-<a href="http://ossamamehmood.github.io">
+<a href="http://ossamamehmood.com">
   
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
@@ -147,7 +147,7 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     Portfolio/Website
     </h2>
   
-  `Personal Website` -> <a href="https://ossamamehmood.github.io" target="_blank">`Ossama Mehmood`</a>
+  `Personal Website` -> <a href="https://ossamamehmood.com" target="_blank">`Ossama Mehmood`</a>
   
   `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
 
