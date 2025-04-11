@@ -94,20 +94,20 @@
 </h1>
   
 <img  width="150" height="150" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.gif" />
-  
-Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms🎉.
 
-✔ Currently specialized in working as a Senior Graphic Designer, Brand Identity Strategist, and Visual Identity designer 🚀
+➰ Started my career at the age of Sixteen (16) as a Graphic Designer. I have Seven (7) plus years of predominant hands-on experience gained by freelancing on different platforms🎉.
 
-✔ Around 𝟏𝟎𝟎+ Projects accomplished as a Graphic Designer throughout my freelance journey ♾
+➰ Currently specialized in working as a Senior Graphic Design, UI/UX Design and Brand Identity Strategist 🚀.
 
-✔ 𝟏𝟎𝟎% Job Success Score - More than 100 scenes modeled with Upwork clients 🎉
+➰ Around 150+ Projects accomplished as a Graphic Designer throughout my freelance journey♾.
 
-✔ 𝐓𝐎𝐏-𝐑𝐀𝐓𝐄𝐃 Freelancer Acknowledgement from Upwork ⛷️
+➰ More than 100 scenes modelled with Upwork clients🎉.
 
-✔ Maintain the feedback (𝟝.𝟘/𝟝) - More than 9𝟎% of clients recommended 🎩
+➰ Top-rated designer acknowledgement from Upwork⛷️.
 
-✔ Respond quickly to clients, and get the work done promptly 🎮
+➰ Maintain the feedback ✳️✳️✳️✳️✳️ (𝟝.𝟘/𝟝) - with 100% of clients recommended🎩.
+
+➰ Respond quickly to clients and get the work done promptly. 🎮.
   
   <!--- Personal --->  
   
