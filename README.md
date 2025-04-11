@@ -93,7 +93,7 @@
   ABOUT ME
 </h1>
   
-<img src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.gif" />
+<img  width="150" height="150" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.gif" />
   
 Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms🎉.
 
