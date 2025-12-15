@@ -126,12 +126,8 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     Education 
     </h2>
 
-  `Bachelor` in `Software Engineering `(BSSE)` - Comsats University Islamabad
+  `Bachelor` in `Software Engineering (BSSE)` - Comsats University Islamabad
   
-  `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
-  
-  `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
-
   
   <!--- Portfolio/Website --->  
   
