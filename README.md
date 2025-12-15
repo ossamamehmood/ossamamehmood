@@ -104,20 +104,16 @@
   <!--- Personal --->  
   
 <h1 align="center">
-    Personal 
+    Personal Values
     </h2>
 
-Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
-  
-Building `Elegant` Open Source Repository and Projects.
-  
-Bloodline `Creative, Reflective & Introspective` Designer.
-  
-Aspire `Broke` those with `Excellence` who try to mess up `Soft Heart`.
-  
-Smarting `Ignorance/absence` those who lose diamond.
-  
-Believe `in Allah Almighty` Exclusively and Unconditionally.
+I approach my work with `discipline, humility,` and `consistency`.
+
+I enjoy `building elegant open-source projects` and `contributing` to work that is practical and well thought out.
+
+`Creativity, reflection,` and `attention` to detail shape how I design and how I collaborate.
+
+I value calm `focus, respectful communication,` and steady improvement over noise or shortcuts.
   
   
   <!--- Education --->  
