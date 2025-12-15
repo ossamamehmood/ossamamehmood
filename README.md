@@ -95,11 +95,11 @@
   
 <img  width="150" height="150" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.gif" />
 
-➰ I began my design journey at sixteen, driven by curiosity and a strong sense for visual clarity. Over the past seven plus years, I’ve built hands-on experience through freelancing across multiple platforms, working with startups, agencies, and international clients.
+➰ I began `my design` journey at `sixteen`, driven by curiosity and a strong sense for `visual clarity`. Over the past `seven plus years`, I’ve built `hands-on experience` through freelancing across multiple platforms, working with `startups, agencies,` and `international clients`.
 
-➰ I currently work as a Senior Graphic Designer, UI/UX Designer, and Brand Identity Strategist, with a focus on designing interfaces and brands that are simple, intentional, and user-focused.
+➰ I currently work as a `Senior Graphic Designer, UI/UX Designer,` and `Brand Identity Strategist,` with a focus on designing interfaces and brands that are `simple, intentional,` and `user-focused`.
 
-➰ Throughout my freelance career, I’ve completed 150 plus projects and collaborated with over 100 clients on Upwork. This consistency earned me a Top Rated Designer badge, a 5.0 rating, and a 100 percent client recommendation rate.
+➰ Throughout `my freelance career`, I’ve completed `200 plus projects` and collaborated with over 150 clients on Upwork/Fiverr. This consistency earned me a `Top Rated Designer` badge, a 5.0 rating, and a 100 percent client recommendation rate.
   
   <!--- Personal --->  
   
